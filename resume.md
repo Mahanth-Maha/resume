@@ -1,6 +1,9 @@
 # Mahanth Yalla
-M.Tech AI @ IISc Bangalore | [🌐 mahanthyalla.in](https://mahanthyalla.in)  
-_[✉️ mahanthyalla@gmail.com](mailto:mahanthyalla@gmail.com) - [🔗linkedin.com/in/mahanth-maha](https://linkedin.com/in/mahanth-maha) - [🔗github.com/mahanth-maha](https://github.com/mahanth-maha)_
+M.Tech AI @ IISc Bangalore 
+
+[🌐 mahanthyalla.in](https://mahanthyalla.in) 
+
+_[✉️ mahanthyalla@duck.com](mailto:mahanthyalla@duck.com) - [🔗linkedin.com/in/mahanth-maha](https://linkedin.com/in/mahanth-maha) - [🔗github.com/mahanth-maha](https://github.com/mahanth-maha)_
 
 ### Work Experience
 
@@ -12,7 +15,7 @@ _[✉️ mahanthyalla@gmail.com](mailto:mahanthyalla@gmail.com) - [🔗linkedin.
 - Worked in the **Nutanix Enterprise AI (NAI)** team on performance benchmarking and optimization of Large Language Model (LLM) inference schedulers.
 - Deployed and evaluated **AIBRIX**, **LLM-D**, and **Dynamo** using **vLLM**, **Kubernetes**, and **Docker** in distributed environments, focusing on throughput, latency, and resource utilization.
 - Designed and proposed a dynamic, profile-based smart routing framework to address latency, load imbalance, and SLO violations in LLM inference, incorporating adaptive and automated techniques.
-- **Winner** — Nutanix Intern Hackathon 2025.
+<!-- - **Winner** — Nutanix Intern Hackathon 2025. -->
 
 <div class="job-header">
 <strong>Software Engineer - Intern & Software Engineer - I | FactSet</strong>
@@ -35,15 +38,17 @@ _[✉️ mahanthyalla@gmail.com](mailto:mahanthyalla@gmail.com) - [🔗linkedin.
 
 <div class="education-header">
 <strong>M.Tech in Artificial Intelligence | Indian Institute of Science, Bangalore</strong>
-<em>CGPA: 7.5/10 | 2024 - Present</em>
+<!-- <em>CGPA: 7.5/10 | 2024 - Present</em> -->
+<em>2024 - Present</em>
 </div>
 
 <div class="education-header">
 <strong>B.Tech in Computer Science & Engineering | JNTUACEA, Anantapur</strong>
-<em>CGPA: 8.45/10 | 2019 - 2023</em>
+<!-- <em>CGPA: 8.45/10 | 2019 - 2023</em> -->
+<em>2019 - 2023</em>
 </div>
 
-<div class="education-header">
+<!-- <div class="education-header">
 <strong>+2 in MPC | Narayana Jr. College, Vijayawada</strong>
 <em>GPA: 9.79/10 | 2017 - 2019</em>
 </div>
@@ -51,7 +56,7 @@ _[✉️ mahanthyalla@gmail.com](mailto:mahanthyalla@gmail.com) - [🔗linkedin.
 <div class="education-header">
 <strong>Secondary Schooling | Siddartha High School, V.Kota</strong>
 <em>GPA: 9.80/10 | 2017</em>
-</div>
+</div> -->
 
 
 ### Projects
@@ -64,7 +69,7 @@ _[✉️ mahanthyalla@gmail.com](mailto:mahanthyalla@gmail.com) - [🔗linkedin.
 - Implemented zero-shot class unlearning on multiple CNN architectures achieving near-perfect forgetting of target classes while retaining other class performance.
 - Evaluated on LeNet5, KarpathyNet, AlexNet, and ResNet with scalability demonstrated across architectures.
 
-<div class="education-header">
+<!-- <div class="education-header">
 <strong>Generated Indian Names using Neural Networks | Self Project</strong> <a href="https://github.com/Mahanth-Maha/mahaMiniGPT/tree/main/03_IndianNameCreator">[Source code]</a>
 <em>Jan 2025 - Present</em>
 </div>
@@ -100,15 +105,15 @@ _[✉️ mahanthyalla@gmail.com](mailto:mahanthyalla@gmail.com) - [🔗linkedin.
 </div>
 
 - Created complete animated scene from a video game using only C graphics library.
+ -->
 
-
-### M.Tech Thesis
+<!-- ### M.Tech Thesis
 
 **Advancing Zero-Shot Class Unlearning Techniques for Deep Computer Vision Models**  
 *May 2025 - Present*
 
 - Extended zero-shot class unlearning with methods like class impression generation, sparse weight modifications, and meta-learning.
-- Tested on ResNet50, Vision Transformers with ImageNet and CIFAR-10 datasets.
+- Tested on ResNet50, Vision Transformers with ImageNet and CIFAR-10 datasets. -->
 
 
 ### Publications
@@ -120,10 +125,10 @@ _[✉️ mahanthyalla@gmail.com](mailto:mahanthyalla@gmail.com) - [🔗linkedin.
 
 ### Personal Implementations
 
-**ML Models** Naive Bayes, Linear Regression, KNN, SVM, Logistic Regression. [\[GitHub Link\]](https://github.com/Mahanth-Maha/BasicML/tree/main/MahaML)  
-**Optimization** SGD, Adagrad, Adadelta, RMSprop, Adam, NAdam, AdamW. [\[GitHub Link\]](https://github.com/Mahanth-Maha/DeepLearn/tree/main/Optimisations)  
-**Deep Learning** Backpropagation - Autograd [\[GitHub Link\]](https://github.com/Mahanth-Maha/DeepLearn/tree/main/auto_gradient), NN in Numpy - MLP, CNN [\[GitHub Link\]](https://github.com/Mahanth-Maha/DeepLearn/tree/main/Models_for_images)  
-**NLP** Naive Bayes, Word2Vec, BoW. [\[GitHub Link\]](https://github.com/Mahanth-Maha/NLP-DS207/tree/main)  
+**ML Models :** Naive Bayes, Linear Regression, KNN, SVM, Logistic Regression. [\[GitHub Link\]](https://github.com/Mahanth-Maha/BasicML/tree/main/MahaML)  
+**Optimization :** SGD, Adagrad, Adadelta, RMSprop, Adam, NAdam, AdamW. [\[GitHub Link\]](https://github.com/Mahanth-Maha/DeepLearn/tree/main/Optimisations)  
+**Deep Learning :** Backpropagation - Autograd [\[GitHub Link\]](https://github.com/Mahanth-Maha/DeepLearn/tree/main/auto_gradient), NN in Numpy - MLP, CNN [\[GitHub Link\]](https://github.com/Mahanth-Maha/DeepLearn/tree/main/Models_for_images)  
+**NLP :** Naive Bayes, Word2Vec, BoW. [\[GitHub Link\]](https://github.com/Mahanth-Maha/NLP-DS207/tree/main)  
 
 
 ### Certifications
@@ -157,9 +162,9 @@ _[✉️ mahanthyalla@gmail.com](mailto:mahanthyalla@gmail.com) - [🔗linkedin.
 - **Placement Coordinator** — Placement Cell, JNTU Anantapur *(Jun 2022 - May 2023)*  
 - **Chief Volunteer** — Animal Rescue Team, Anantapur *(Apr 2021 - Nov 2022)*  
 
-
+<!-- 
 ### Languages
 
 - **English:** Professional proficiency  
 - **Telugu:** Native proficiency  
-- **Hindi:** Basic proficiency
+- **Hindi:** Basic proficiency -->
